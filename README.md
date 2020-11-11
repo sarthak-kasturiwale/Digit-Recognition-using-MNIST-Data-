@@ -1,4 +1,4 @@
-# Digit-Recognition-using-MNIST-Data-
+# Digit-Recognition-using-MNIST-Data
 - MNIST ("Modified National Institute of Standards and Technology") is the de facto “hello world” dataset of computer vision. Since its release in 1999, this classic dataset of handwritten images has served as the basis for benchmarking classification algorithms.
 - In this Project, our goal is to correctly identify digits from a dataset of tens of thousands of handwritten images.
 
